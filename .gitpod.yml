@@ -1,3 +1,7 @@
 tasks:
   - init: 'npm build'
     command: 'npm start'
+
+vscode:
+  extensions:
+    - GitHub.vscode-pull-request-github@0.21.3:YhfAFZe++6bBU9KmwNaj9Q==

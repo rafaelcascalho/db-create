@@ -1,0 +1,21 @@
+{
+  "name": "db-create",
+  "version": "1.0.0",
+  "description": "Npm package to help create databases to automate projects setup.",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "node_modules/.bin/tsc",
+    "start": "node build/index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelcascalho/db-create.git"
+  },
+  "author": "Rafael Cascalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelcascalho/db-create/issues"
+  },
+  "homepage": "https://github.com/rafaelcascalho/db-create#readme"
+}
